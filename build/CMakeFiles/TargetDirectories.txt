@@ -1,3 +1,0 @@
-D:/Projects/cpp/cpptut/build/CMakeFiles/test.dir
-D:/Projects/cpp/cpptut/build/CMakeFiles/edit_cache.dir
-D:/Projects/cpp/cpptut/build/CMakeFiles/rebuild_cache.dir
